@@ -1,0 +1,8 @@
+{
+  "name": "AppMaps.mi",
+  "app_id": "5534aac6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
